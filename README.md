@@ -1,6 +1,6 @@
 # 👋 Hi, Welcome to My GitHub!
 
-<img src="backrgound.gif" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### About Me
 - 🔭 Currently working on **[Warbur](https://github.com/Pliuyy/Warbur-Web)**  
