@@ -1,17 +1,17 @@
 # 👋 Hi, Welcome to My GitHub!
 
 ### About Me
-- 🔭 Currently working on **[Project Name](https://github.com/your-username/project-name)**  
+- 🔭 Currently working on **[Warbur](https://github.com/Pliuyy/Warbur-Web)**  
 - 🌱 Learning: **[Topic/Technology]**  
-- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📫 How to reach me: [Email](raflialk7@gmail.com) 
 - ⚡ Fun fact: I love **coding, coffee, and open source!**
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Your Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pliuyy&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pliuyy&theme=radical" alt="Your Streak Stats" />
 </p>
 
 ---
@@ -19,9 +19,9 @@
 ### 🚀 My Top Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| **Project 1** | 🚀 A cool project that does X. | [View](https://github.com/your-username/project-1) |
-| **Project 2** | 🌟 A fantastic library for Y. | [View](https://github.com/your-username/project-2) |
-| **Project 3** | 💡 My unique take on Z. | [View](https://github.com/your-username/project-3) |
+| **Project 1** | 🚀 A cool project that does X. | [View](https://github.com/Pliuyy/Warbur) |
+| **Project 2** | 🌟 A fantastic library for Y. | [View](https://github.com/Pliuyy/Warbur-Web) |
+| **Project 3** | 💡 My unique take on Z. | [View](https://github.com/Pliuyy/Porto) |
 
 ---
 
@@ -35,12 +35,6 @@
 </p>
 
 ---
-
-### 🌟 Fun Visuals
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark" alt="Trophies" />
-</p>
 
 ---
 
