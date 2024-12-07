@@ -1,5 +1,7 @@
 # 👋 Hi, Welcome to My GitHub!
 
+<img src="backrgound.gif" />
+
 ### About Me
 - 🔭 Currently working on **[Warbur](https://github.com/Pliuyy/Warbur-Web)**  
 - 🌱 Learning: **[Topic/Technology]**  
