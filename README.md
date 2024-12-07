@@ -1,8 +1,12 @@
+<div align="center" style="position: relative; overflow: hidden;">
+
+<!-- Background GIF -->
+<img src="https://pin.it/5xdydacLO/background.gif" alt="background" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; object-fit: cover; opacity: 0.5;">
+
+<!-- Profil Konten -->
+<div style="z-index: 1; position: relative; padding: 50px;">
+
 # 👋 Hi, Welcome to My GitHub!
-
-![Banner](background.gif)
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### About Me
 - 🔭 Currently working on **[Warbur](https://github.com/Pliuyy/Warbur-Web)**  
